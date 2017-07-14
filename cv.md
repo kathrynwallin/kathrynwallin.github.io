@@ -4,44 +4,40 @@ title: CV
 ---
 
 ## Anew Guy
-- http://yourwebsite.com
-- 123 Fake Street
-- Portland, OR 97213
-- 555-555-5555
-- your.email@address.com
+- http://kathrynwallin.github.io
+- 4320 SW Corbett Ave #102
+- Portland, OR 97239
+- 805-551-3532
+- wallinmi@ohsu.edu
 
 ### Personal summary
 
 > My research interests are ... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-### Education
+### Education & Training
 
-- M.A.     Subject (grade), University name and location
-- B.A.     Subject (grade), University name and location
-- A Level  Subject (grade), University name and location
+-2007 – 2011	   BA, Neuroscience, University of Southern California, Los Angeles, CA
+-2012 – 2017   Neuroscience Graduate Program, University of Southern California, Los Angeles, CA
+				   Thesis Defense Date: March 10, 2017
+				   Thesis Title: “Neurobiology of Anabolic-Androgenic Steroids and Cognitive Function.”
+
+-2014			   Techniques in Neuroendocrinology Workshop, Otago University, Dunedin, 
+                           New Zealand
+
 
 ### Technical
 
 - Intermediate: HTML, Python, etc, etc
 - Basic: CSS, Stata, etc, etc
 
-### Employment
+### Professional Experience
 
-- 2015: Job title, Company
+-2010 – 2011       Undergraduate Research, USC Laboratory of Neural Circuits and Plasticity, 
+                           Advisor: Dr. Tansu Celikel, Dept. of Biological Sciences, Los Angeles, CA
+-2011 – 2012       Research Associate, Celula Inc. San Diego, CA 
+-2012 – present    Graduate Research Assistant, Advisor: Dr. Ruth Wood, Dept. of Cell and   
+	 Neurobiology, Los Angeles, CA
 
-> In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-- 2012: Job title, Company
-
-> In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-- 2011: Job title, Company
-
-> In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-- 2008: Job title, Company
-
-> In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 \newpage
 
