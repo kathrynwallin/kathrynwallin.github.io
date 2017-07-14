@@ -41,15 +41,30 @@ title: CV
 
 \newpage
 
+### Honors & Awards 
+
+-2007 – 2011	 National Merit Scholarship
+-2007 – 2011	 USC Presidential Scholarship	
+-2009 – 2011	 USC Dean’s List	
+-2010 – 2011	 USC Provost Scholarship for Undergraduate research
+-2010 – 2011     Nu Rho Psi Neuroscience Honor Society 
+-2011			 USC Discovery Scholar (Recognizing outstanding undergraduate original research) 	
+-2011			 USC Renaissance Scholar (Excellence in two widely separated fields of study)      
+-2012 – 2017     Rose Hills Foundation Graduate Fellowship
+-2013			 Best 1st-year Student Poster, USC Neuroscience Graduate Symposium
+-2014			 USC Graduate Fellows Travel Award
+
+
 ### Publications
 
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-- YYYY: Name et al. Article title. Journal name. Link/DOI
+-Wallin-Miller KG, Chesley JR, Castrillon J, Wood RI. 2017. Sex differences and hormonal modulation of ethanol-enhanced risk taking in rats. Drug and Alcohol Dependence. 174, 137-144.
+
+-Wallin-Miller KG, Li G, Kelishani D, Wood RI, 2016. Anabolic-androgenic steroids decrease dendritic spine density in the nucleus accumbens of male rats. Neuroscience. 330, 72-78.
+
+-Wallin KG, Wood RI, 2015. Anabolic-androgenic steroids impair set-shifting and reversal learning in male rats. European Neuropsychopharmacology. 25(4), 583-590.
+
+-Wallin KG, Alves JM, Wood RI. 2015. Anabolic-androgenic steroids and decision making: probability and effort discounting in male rats. Psychoneuroendocrinology. 57, 84-92.
+
 
 ### Selected presentations
 
