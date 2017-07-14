@@ -3,7 +3,7 @@ layout: page
 title: CV
 ---
 
-## Anew Guy
+## Kathryn Wallin-Miller
 - http://kathrynwallin.github.io
 - 4320 SW Corbett Ave #102
 - Portland, OR 97239
@@ -12,7 +12,7 @@ title: CV
 
 ### Personal summary
 
-> My research interests are ... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+> My research interests are ... 
 
 ### Education & Training
 
